@@ -1,0 +1,48 @@
+   git add src/main/java/com/aluraone/forum/domain/curso/Curso.java
+   GIT_COMMITTER_DATE="2024-05-21T10:40:45 -0300" git commit -am "feat(domain): add Curso entity
+   - Added Curso entity with basic fields and JPA annotations."
+   
+   git add src/main/java/com/aluraone/forum/domain/curso/CursoRepository.java
+   GIT_COMMITTER_DATE="2024-05-21T10:42:00 -0300" git commit -am "feat(repository): add CursoRepository
+   - Added CursoRepository interface for Curso entity."
+   
+   git add src/main/java/com/aluraone/forum/domain/curso/DadosCursoDto.java
+   GIT_COMMITTER_DATE="2024-05-21T10:48:00 -0300" git commit -am "feat(dto): add DadosCursoDto
+   - Added DadosCursoDto for DTO representation of Curso data."
+   
+   git add src/main/java/com/aluraone/forum/domain/curso/DadosListagemCursoDto.java
+   GIT_COMMITTER_DATE="2024-05-21T10:51:00 -0300" git commit -am "feat(dto): add DadosListagemCursoDto
+   - Added DadosListagemCursoDto for DTO representation of Curso data for listing purposes."
+   
+   git add src/main/java/com/aluraone/forum/domain/topico/DadosListagemTopicoDto.java
+   GIT_COMMITTER_DATE="2024-05-21T10:58:00 -0300" git commit -am "feat(dto): add DadosListagemTopicoDto
+   - Added DadosListagemTopicoDto for DTO representation of Topico data for listing purposes."
+   
+   git add src/main/java/com/aluraone/forum/domain/topico/DadosTopicoDto.java
+   GIT_COMMITTER_DATE="2024-05-21T11:02:00 -0300" git commit -am "feat(dto): add DadosTopicoDto
+   - Added DadosTopicoDto for DTO representation of Topico data."
+   
+   git add src/main/java/com/aluraone/forum/domain/topico/Topico.java
+   GIT_COMMITTER_DATE="2024-05-21T11:07:00 -0300" git commit -am "feat(domain): add Topico entity
+   - Added Topico entity with JPA annotations and basic fields."
+   
+   git add src/main/java/com/aluraone/forum/domain/topico/TopicoRepository.java
+   GIT_COMMITTER_DATE="2024-05-21T11:15:00 -0300" git commit -am "feat(repository): add TopicoRepository
+   - Added TopicoRepository interface for Topico entity."
+   
+   git add src/main/java/com/aluraone/forum/domain/usuario/AutenticacaoService.java
+   GIT_COMMITTER_DATE="2024-05-21T11:21:00 -0300" git commit -am "feat(service): add AutenticacaoService
+   - Added AutenticacaoService for user authentication handling."
+   `
+    git add src/main/java/com/aluraone/forum/domain/usuario/DadosAutenticacaoDto.java
+    GIT_COMMITTER_DATE="2024-05-21T11:25:00 -0300" git commit -am "feat(dto): add DadosAutenticacaoDto
+    - Added DadosAutenticacaoDto for DTO representation of authentication data."
+    
+    git add src/main/java/com/aluraone/forum/domain/usuario/Usuario.java
+    GIT_COMMITTER_DATE="2024-05-21T11:29:00 -0300" git commit -am "feat(domain): add Usuario entity
+    - Added Usuario entity with UserDetails implementation."
+    
+    git add src/main/java/com/aluraone/forum/domain/usuario/UsuarioRepository.java
+    GIT_COMMITTER_DATE="2024-05-21T11:31:00 -0300" git commit -am "feat(repository): add UsuarioRepository
+    - Added UsuarioRepository interface for Usuario entity."
+   
